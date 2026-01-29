@@ -19,7 +19,7 @@
 - **Programming:** Python  
 - **Web Technologies:** HTML  
 - **Data Analytics:** Data scraping, cleaning, and analysis  
-- **Tools:**  GitHub  
+- **Tools:**  GitHub  ,linkdln
 
 ---
 
